@@ -117,6 +117,19 @@
         "goofy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Canary",
+      "species": "Bird",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
